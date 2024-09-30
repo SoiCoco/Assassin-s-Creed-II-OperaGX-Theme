@@ -1,8 +1,9 @@
 # Assassin's Creed II OperaGX Theme
 Assassin's Creed II fan-made theme for everyone. The theme includes some browser effects (some are still missing) and background music from Original Soundtracks.
+https://store.gx.me/mods/63hig4/assassin-s-creed-ii-venice
 #### I RECOMMEND LOWERING THE VOLUME OF THE BROWSER SOUNDS
 
-Current version: v1.0 (09/08/2024)
+Current version: v1.0.1 (30/09/2024)
 
 ![Captura de pantalla 2024-09-09 082344](https://github.com/user-attachments/assets/59d86d42-e389-487e-a9ab-48a35c7c57e0)
 
